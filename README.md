@@ -10,7 +10,8 @@
 
 ## Запуск приложения
 
-Перейдите по [ссылке](http://high-pass.sergey-gadaev.tmweb.ru/) на хостинг.
+Перейдите по [ссылке](http://high-pass.sergey-gadaev.tmweb.ru/) на хостинг.<br>
+Перейдите по [ссылке](https://gadaev-sergey.github.io/High-pass/) на GitHub Pages.
 
 Или, необходимо склонировать все содержимое репозитория `git clone <this repo>` или скачать ZIP архив репозитория. Затем открыть файл `index.html`, находящийся в корне проекта.
 
